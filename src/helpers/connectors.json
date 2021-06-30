@@ -1,0 +1,10 @@
+{
+  "injected": {
+    "id": "injected",
+    "name": "Kardiachain",
+    "options": {
+      "appName": "Snapshot",
+      "darkMode": true
+    }
+  }
+}

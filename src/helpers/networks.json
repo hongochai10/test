@@ -1,0 +1,16 @@
+{
+  "0": {
+    "name": "Kardiachain",
+    "network": "mainnet",
+    "rpcUrl": "https://rpc.kardiachain.io",
+    "wsUrl": "wss://ws-dev.kardiachain.io/",
+    "explorer": ""
+  },
+  "1": {
+    "name": "Kardiachain",
+    "network": "homestead",
+    "rpcUrl": "https://rpc.kardiachain.io",
+    "wsUrl": "wss://ws-dev.kardiachain.io/",
+    "explorer": "https://etherscan.io"
+  }
+}
